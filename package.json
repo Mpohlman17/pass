@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --use_strict index.js",
-    "dev": "nodemon --use_strict index.js",
-    "bundle": "webpack"
+    "start": "node index.js",
+    "watch": "nodemon index.js"
   },
   "license": "MIT",
   "dependencies": {
@@ -57,11 +56,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpohlman17/GoodDeeds.git"
+    "url": "git+https://github.com/mpohlman17/pass.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/mpohlman17/GoodDeeds/issues"
+    "url": "https://github.com/mpohlman17/pass/issues"
   },
-  "homepage": "https://github.com/mpohlman17/GoodDeeds#readme"
+  "homepage": "https://github.com/mpohlman17/pass#readme"
 }
